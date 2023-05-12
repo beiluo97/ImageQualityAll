@@ -19,7 +19,7 @@ python kid_score.py --true ../clic22val  --fake /root/workspace/ImageQuality/IQT
 ## LPIPS
 ### link
 ### how to use
-python lpipsfidkid.py
+python lpips_score.py
 
 ## DISTS
 ### link
@@ -33,5 +33,5 @@ python DISTS_pt.py --ref /root/workspace/ImageQuality/kodak/ --dist /root/worksp
 https://github.com/anse3832/IQT
 ### how to use
 ```
-python test.py
+python iqt_test.py
 ```
